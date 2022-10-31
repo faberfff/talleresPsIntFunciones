@@ -6,5 +6,8 @@ taller defunciones y se evalua lo aprendido en las clases de git, github.
 
 ###
 
-![image](https://user-images.githubusercontent.com/76182994/199118093-a15da44e-790d-44e0-9049-bd68e7d1a369.png)
+
+
+
+
 
