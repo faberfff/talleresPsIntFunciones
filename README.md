@@ -1,5 +1,5 @@
 # Taller de variables e impresión
-Taller variables e impresión DODO
+Taller variables e impresión 
 
 
 ![image](https://user-images.githubusercontent.com/76182994/199121894-73c218ce-2270-47ff-90c8-9f50bb0a04e5.png)
@@ -10,7 +10,7 @@ Taller variables e impresión DODO
 
 ## Construido con :wrench:
 
-- PsInt / DODO / Sofka
+- PsInt 
 
 ## Por Faber Fernández :building_construction:
 
