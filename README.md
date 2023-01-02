@@ -8,6 +8,9 @@ Taller variables e impresión
 
 ![image](https://user-images.githubusercontent.com/76182994/199121806-e2816be3-20ac-4a8b-942d-2f22c782853d.png)
 
+## Video [variables de impresión]
+(https://youtu.be/Ehrrg1mXn7s)
+
 ## Construido con :wrench:
 
 - PsInt 
